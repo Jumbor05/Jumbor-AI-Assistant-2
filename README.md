@@ -1,0 +1,22 @@
+Jumbor AI Assistant 🤖
+
+A personal AI assistant for Android that can understand voice commands and perform actions on the phone.
+
+Planned Features 🚀
+
+- 🎤 Voice commands
+- 📱 Open and close apps
+- 🔎 Search Google
+- 🎵 Play music
+- 📞 Make calls
+- 💬 Send messages
+- ⚙️ Control phone settings
+- 🌐 Open websites
+- 🧠 Understand natural language commands
+- 🔊 Speak responses
+- 🤖 Perform multiple actions from one command
+
+Goal
+
+Build a personal AI assistant that can understand what I say and perform tasks on my phone automatically.
+
